@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8298" started-at="2022-03-27T10:58:45Z" finished-at="2022-03-27T10:58:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8298" started-at="2022-03-27T10:58:45Z" finished-at="2022-03-27T10:58:54Z">
+      <class name="com.dockervalidation.GridTesting">
+        <test-method status="PASS" signature="TestCase001()[pri:0, instance:com.dockervalidation.GridTesting@26be92ad]" name="TestCase001" duration-ms="3782" started-at="2022-03-27T10:58:45Z" finished-at="2022-03-27T10:58:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase001 -->
+        <test-method status="PASS" signature="TestCase002()[pri:0, instance:com.dockervalidation.GridTesting@26be92ad]" name="TestCase002" duration-ms="4501" started-at="2022-03-27T10:58:49Z" finished-at="2022-03-27T10:58:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase002 -->
+      </class> <!-- com.dockervalidation.GridTesting -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
