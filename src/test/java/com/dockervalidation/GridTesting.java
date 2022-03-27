@@ -12,7 +12,7 @@ public class GridTesting {
 	@Test
 	public void TestCase001() throws MalformedURLException
 	{
-		URL u=new URL("http://3.141.0.244:4444/");
+		URL u=new URL("http://18.119.162.118:4444/");
 		
 		DesiredCapabilities cap=new DesiredCapabilities();
 		cap.setCapability("browserName", "chrome");
@@ -26,7 +26,7 @@ public class GridTesting {
 	@Test
 	public void TestCase002() throws MalformedURLException
 	{
-		URL u=new URL("http://3.141.0.244:4444/");
+		URL u=new URL("http://18.119.162.118:4444/");
 		DesiredCapabilities cap=DesiredCapabilities.chrome();
 		cap.setCapability("browserName", "firefox");
 		//ChromeOptions cap = new ChromeOptions(); 
